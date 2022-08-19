@@ -1,6 +1,6 @@
 # Nomenclator Zoologicus as a Catalogue of Life Data Package (ColDP)
 
-[![DOI](https://zenodo.org/badge/526530074.svg)](https://zenodo.org/badge/latestdoi/526530074)
+[![DOI](https://raw.githubusercontent.com/rdmpage/nomenclator-zoologicus-coldp/main/zenodo_badge.svg)](https://zenodo.org/badge/latestdoi/526530074)
 
 A mapping between the digitised version of [Nomenclator Zoologicus](http://uio.mbl.edu/NomenclatorZoologicus/) from uBio, and bibliographic databases such as the Biodiversity Heritage Library, CrossRef, and Wikidata.
 
