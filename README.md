@@ -1,5 +1,7 @@
 # Nomenclator Zoologicus as a Catalogue of Life Data Package (ColDP)
 
+[![DOI](https://zenodo.org/badge/526530074.svg)](https://zenodo.org/badge/latestdoi/526530074)
+
 A mapping between the digitised version of [Nomenclator Zoologicus](http://uio.mbl.edu/NomenclatorZoologicus/) from uBio, and bibliographic databases such as the Biodiversity Heritage Library, CrossRef, and Wikidata.
 
 The original tab-delimited data set was supplied by David Remsen, for background see: Remsen, D. P., Norton, C., & Patterson, D. J. (2006). Taxonomic Informatics Tools for the Electronic Nomenclator Zoologicus. The Biological Bulletin, 210(1), 18–24. https://doi.org/10.2307/4134533
@@ -28,8 +30,7 @@ The other goal of this work is to learn how to create and publish a Catalogue of
 *.gitattributes export-ignore
 *.gitignore export-ignore
 ```
-- once the first release has been created, we can link to Zenodo and get a DOI, see[Making your project citable](https://coderefinery.github.io/github-without-command-line/doi/). Go to Zenodo and select the GitHub settings. This repository should appear in your list of repositories. Set the switch on the right to “ON”. Create a release for this repository. This should then automatically generate a DOI. If you want to experiment without creating a “real” DOI you can use https://sandbox.zenodo.org/account/settings/github/.
-
+- once the first release has been created, we can link to Zenodo and get a DOI, see[Making your project citable](https://coderefinery.github.io/github-without-command-line/doi/). Go to Zenodo and select the GitHub settings. This repository should appear in your list of repositories. Set the switch on the right to “ON”. Create a release for this repository. This should then automatically generate a DOI.
 
 ## Database-specific notes
 
