@@ -1,0 +1,59 @@
+title: Nomenclator Zoologicus
+alias: Nomenclator Zoologicus
+description: "Nomenclator Zoologicus is one of the major compendia (in this case, of the names of genera and subgenera) in the field of zoological nomenclature, compiled by Sheffield Airey Neave and his successors and published in 9 volumes over the period 1939–1994, under the auspices of the Zoological Society of London; a tenth, electronic-only volume was also produced before the project ceased. It contains over 340,000 published name instances with their authorities and details of their original publication (as \"microcitations\", i.e. journal or book title, volume and page), certain nomenclatural notes and cross references, and an indication of the taxonomic group to which each is assigned. An electronic (digitised) version of volumes 1-10 was released online by the uBio project, based at the Marine Biological Laboratory, Woods Hole, in 2004–2005. (from https://en.wikipedia.org/wiki/Nomenclator_Zoologicus).\nThis data package is based on a single file supplied by David Remsen from the Marine Biological Laboratory. This data has been cleaned and formatted as a COL data package."
+released: 2022-08-19
+version: 0.10000000000000001
+contact:
+  - given: Roderic
+    family: Page
+    city: Glasgow
+    country: United Kingdom
+    orcid: 0000-0002-7101-9767
+    email: Roderic.Page@glasgow.ac.uk
+    organisation: University of Glasgow
+    rorid: https://ror.org/00vtgdb53
+creator:
+  - given: Roderic
+    family: Page
+    city: Glasgow
+    country: United Kingdom
+    orcid: 0000-0002-7101-9767
+    email: Roderic.Page@glasgow.ac.uk
+    organisation: University of Glasgow
+    rorid: https://ror.org/00vtgdb53
+  - orcid: 0000-0003-1289-0840
+    given: David
+    family: Remsen
+    city: Woods Hole
+    country: US
+    organisation: Marine Biological Laboratory
+    rorid: https://ror.org/046dg4z72
+editor:
+  - given: Roderic
+    family: Page
+    city: Glasgow
+    country: United Kingdom
+    orcid: https://orcid.org/0000-0002-7101-9767
+    email: Roderic.Page@glasgow.ac.uk
+    organisation: University of Glasgow
+    rorid: https://ror.org/00vtgdb53
+geographicScope: global
+taxonomicScope: Animals
+temporalScope: 1755-1994
+confidence: 3
+completeness: 0
+license: CC0
+source:
+  - id: https://doi.org/10.2307/4134533
+    type: article-journal
+    doi: 10.2307/4134533
+    author:
+      - Remsen, D. P.
+      - Norton, C.
+      - Patterson, D. J.
+    title: Taxonomic Informatics Tools for the Electronic Nomenclator Zoologicus
+    containerTitle: The Biological Bulletin
+    issued: 2006
+    volume: 210
+    issue: 1
+    page: 18-24
