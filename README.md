@@ -30,7 +30,7 @@ The other goal of this work is to learn how to create and publish a Catalogue of
 *.gitattributes export-ignore
 *.gitignore export-ignore
 ```
-- once the first release has been created, we can link to Zenodo and get a DOI, see[Making your project citable](https://coderefinery.github.io/github-without-command-line/doi/). Go to Zenodo and select the GitHub settings. This repository should appear in your list of repositories. Set the switch on the right to “ON”. Create a release for this repository. This should then automatically generate a DOI.
+- once the first release has been created, we can link to Zenodo and get a DOI, see[Making your project citable](https://coderefinery.github.io/github-without-command-line/doi/). Go to Zenodo and select the GitHub settings. This repository should appear in your list of repositories. Set the switch on the right to “ON”. Create a release for this repository. This should then automatically generate a DOI. You can embed a Zenodo DOI badge in your GitHub README.md file, although currently this doesn’t seem to work. For this repository I’ve embedded a local copy of the badge.
 
 ## Database-specific notes
 
