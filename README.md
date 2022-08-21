@@ -10,7 +10,7 @@ The version is this repository is based on my earlier work [nomenclator-zoologic
 
 ## Step-by-step guide
 
-The other goal of this work is to learn how to create and publish a Catalogue of Life Data Package (ColDP).
+The other goal of this work is to learn how to create and publish a [Catalogue of Life Data Package (ColDP)](https://github.com/CatalogueOfLife/coldp).
 
 - create a GitHub repository
 
@@ -31,6 +31,10 @@ The other goal of this work is to learn how to create and publish a Catalogue of
 *.gitignore export-ignore
 ```
 - once the first release has been created, we can link to Zenodo and get a DOI, see[Making your project citable](https://coderefinery.github.io/github-without-command-line/doi/). Go to Zenodo and select the GitHub settings. This repository should appear in your list of repositories. Set the switch on the right to “ON”. Create a release for this repository. This should then automatically generate a DOI. You can embed a Zenodo DOI badge in your GitHub README.md file, although currently this doesn’t seem to work. For this repository I’ve embedded a local copy of the badge.
+
+- Create dataset on Checklistbank. If you click on `Datasets` on the left hand side of the `https://www.checklistbank.org/` website you should see the search tool to find a dataset, and a button labelled `+ New Datasets` (this will only appear if you have permission to add data. In this example the dataset I created is number `126539`.
+
+- Upload dataset. You can upload the dataset directly, as well as the metadata.yml file. Once the dataset is uploaded it will be imported.
 
 ## Database-specific notes
 
