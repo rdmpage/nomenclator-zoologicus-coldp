@@ -3,7 +3,7 @@ title: Nomenclator Zoologicus
 alias: Nomenclator Zoologicus
 description: "Nomenclator Zoologicus is one of the major compendia (in this case, of the names of genera and subgenera) in the field of zoological nomenclature, compiled by Sheffield Airey Neave and his successors and published in 9 volumes over the period 1939–1994, under the auspices of the Zoological Society of London; a tenth, electronic-only volume was also produced before the project ceased. It contains over 340,000 published name instances with their authorities and details of their original publication (as \"microcitations\", i.e. journal or book title, volume and page), certain nomenclatural notes and cross references, and an indication of the taxonomic group to which each is assigned. An electronic (digitised) version of volumes 1-10 was released online by the uBio project, based at the Marine Biological Laboratory, Woods Hole, in 2004–2005. (from https://en.wikipedia.org/wiki/Nomenclator_Zoologicus).\nThis data package is based on a single file supplied by David Remsen from the Marine Biological Laboratory. This data has been cleaned and formatted as a COL data package."
 released: 2022-08-19
-version: 0.1
+version: 0.2.1
 contact:
   - given: Roderic
     family: Page
